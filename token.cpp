@@ -1,7 +1,3 @@
-//
-// Created by Ibrahim Alam on 2/20/24.
-//
-
 #include "token.h"
 
 token::token(char ch) : kind_(ch), value_(0) {}
