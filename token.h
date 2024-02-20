@@ -1,7 +1,3 @@
-//
-// Created by Ibrahim Alam on 2/20/24.
-//
-
 #ifndef CALCULATOR_TOKEN_H
 #define CALCULATOR_TOKEN_H
 #include <string>
