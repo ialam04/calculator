@@ -1,7 +1,3 @@
-//
-// Created by Ibrahim Alam on 2/20/24.
-//
-
 #include "token_stream.h"
 #include <iostream>
 #include <cctype>
